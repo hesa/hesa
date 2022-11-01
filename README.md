@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+📫 How to reach me:
+
+* Twitter: [henriksandklef](https://twitter.com/henriksandklef)
+* LinkedIn: [henrik-sandklef](https://www.linkedin.com/in/henrik-sandklef)
+
+
 <!--
 **hesa/hesa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
