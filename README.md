@@ -2,7 +2,6 @@
 
 📫 How to reach me:
 
-* Twitter: [henriksandklef](https://twitter.com/henriksandklef)
 * LinkedIn: [henrik-sandklef](https://www.linkedin.com/in/henrik-sandklef)
 
 
