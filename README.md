@@ -1,7 +1,9 @@
 ### Hi there 👋
 
 💬 Ask me about ... Open Source licensing and compliance
+
 🔭 I’m currently working on [flict](https://github.com/vinland-technology/flict/), [licomp-toolkit](https://github.com/hesa/licomp-toolkit), [foss-licenses](https://github.com/hesa/foss-licenses)
+
 📫 How to reach me:
 - LinkedIn: [henrik-sandklef](https://www.linkedin.com/in/henrik-sandklef)
 
