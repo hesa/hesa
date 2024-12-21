@@ -7,6 +7,13 @@
 📫 How to reach me:
 - LinkedIn: [henrik-sandklef](https://www.linkedin.com/in/henrik-sandklef)
 
+Misc links:
+
+- [photos at flickr](https://flickr.com/photos/63114905@N06)
+
+- [Open Source Compliance](https://opensource-compliance.com/)
+
+- [blog](https://blog.opensource-compliance.com/) about Open Source compliance
 
 
 <!--
